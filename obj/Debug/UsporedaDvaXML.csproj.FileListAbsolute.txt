@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\UsporedaDvaXML\bin\Debug\UsporedaDvaXML.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\UsporedaDvaXML\bin\Debug\UsporedaDvaXML.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\UsporedaDvaXML\bin\Debug\UsporedaDvaXML.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\UsporedaDvaXML\obj\Debug\UsporedaDvaXML.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\UsporedaDvaXML\obj\Debug\UsporedaDvaXML.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\UsporedaDvaXML\obj\Debug\UsporedaDvaXML.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\UsporedaDvaXML\obj\Debug\UsporedaDvaXML.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\UsporedaDvaXML\obj\Debug\UsporedaDvaXML.pdb
